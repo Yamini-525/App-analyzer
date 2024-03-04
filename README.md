@@ -1,5 +1,6 @@
 # App-analyzer
 This Repository consists of a webpage that contains a dashboard of a various reports.
+
 Features:
   1. Visualization of number of apps according to the various categories.
   2. Analyzing the number of Installations and downloads based on the Reviews and ratings.
